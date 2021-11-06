@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.Button {
+  position: absolute;
+  left: 50%;
+  top: 50%; 
+}
